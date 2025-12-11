@@ -6,6 +6,15 @@
   "authors": [
     { "name": "The Horse" }
   ],
+    "packs": [
+    {
+      "name": "the-horses-actors",
+      "label": "The Horse's Actors",
+      "path": "packs/actors/horses-actors",
+      "type": "Actor",
+      "system": "dnd5e"
+    }
+  ]
   "compatibility": {
     "minimum": "12",
     "verified": "13.351"
