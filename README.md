@@ -1,6 +1,4 @@
 # Actor-Visibility-Tools
-<br>
-<br>
 This tool adds two options under the prototype token's "appearance" tab.
 <br>
 <br>
