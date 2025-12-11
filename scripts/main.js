@@ -1,5 +1,5 @@
 // scripts/main.js
-const MODULE_ID = "min-visibility-distance";
+const MODULE_ID = "the-horses-actor-visibility-tools";
 const SOCKET = `module.${MODULE_ID}`;
 
 /* -------------------- helpers -------------------- */
