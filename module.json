@@ -10,7 +10,7 @@
     {
       "name": "the-horses-macros",
       "label": "The Horse's Macros",
-      "path": "packs/macros/horses-macros.ldb",
+      "path": "packs/macros/horses-macros",
       "type": "Macro",
       "system": "dnd5e"
     }
