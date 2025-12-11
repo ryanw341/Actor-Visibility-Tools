@@ -12,6 +12,6 @@
   },
   "esmodules": ["scripts/main.js"],
   "manifest": "https://raw.githubusercontent.com/ryanw341/Actor-Visibility-Tools/main/module.json",
-  "download": "https://github.com/ryanw341/Actor-Visibility-Tools/releases/tag/ActorVisibilityTools-1.0.12",
+  "download": "https://github.com/ryanw341/Actor-Visibility-Tools/archive/refs/tags/ActorVisibilityTool-1.0.12.zip",
   "license": "MIT"
 }
