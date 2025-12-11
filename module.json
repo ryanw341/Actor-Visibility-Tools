@@ -1,10 +1,10 @@
 {
-  "id": "actor-visibility-tools",
-  "title": "Actor Visibility Tools",
+  "id": "horses-actor-visibility-tools",
+  "title": "The Horse's Actor Visibility Tools",
   "description": "Adds a per-token Appearance option to hide tokens unless a player's token is within N feet/meters.",
   "version": "1.0.11",
   "authors": [
-    { "name": "Ryan Whitehead" }
+    { "name": "The Horse" }
   ],
   "compatibility": {
     "minimum": "12",
