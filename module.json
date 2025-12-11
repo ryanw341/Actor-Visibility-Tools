@@ -1,0 +1,15 @@
+{
+  "id": "actor-visibility-tools",
+  "title": "Actor Visibility Tools",
+  "description": "Adds a per-token Appearance option to hide tokens unless a player's token is within N feet/meters.",
+  "version": "1.0.11",
+  "authors": [
+    { "name": "Ryan Whitehead" }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.351"
+  },
+  "esmodules": ["scripts/main.js"],
+  "license": "MIT"
+}
