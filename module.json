@@ -1,5 +1,5 @@
 {
-  "id": "horses-actor-visibility-tools",
+  "id": "the-horses-actor-visibility-tools",
   "title": "The Horse's Actor Visibility Tools",
   "description": "Adds a per-token Appearance option to hide tokens unless a player's token is within N feet/meters.",
   "version": "1.0.11",
