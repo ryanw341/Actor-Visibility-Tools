@@ -6,15 +6,6 @@
   "authors": [
     { "name": "The Horse" }
   ],
-  "packs": [
-    {
-      "name": "the-horses-macros",
-      "label": "The Horse's Macros",
-      "path": "packs/macros/horses-macros",
-      "type": "Macro",
-      "system": "dnd5e"
-    }
-  ],
   "compatibility": {
     "minimum": "12",
     "verified": "13.351"
